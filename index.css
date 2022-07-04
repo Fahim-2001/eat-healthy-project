@@ -1,0 +1,42 @@
+body {
+  font-family: "Arima", cursive;
+}
+#Skip {
+  color: orange;
+}
+#Diet {
+  color: rgb(99, 98, 98);
+}
+#banner-text {
+  font-size: 20px;
+  color: grey;
+}
+h1 {
+  font-size: 50px;
+}
+.section1 {
+  display: flex;
+  padding-bottom: 20px;
+}
+.elements-section {
+  width: 50%;
+  margin-left: 5%;
+}
+.elements-section img {
+  width: 80%;
+}
+a {
+  text-decoration: none;
+  color: white;
+  font-weight: 700;
+  background: rgb(241, 168, 77);
+  background: linear-gradient(
+    90deg,
+    rgba(241, 168, 77, 1) 5%,
+    rgba(255, 145, 0, 1) 13%,
+    rgba(235, 93, 22, 1) 74%
+  );
+  margin-top: 10%;
+  padding: 15px 45px;
+  border-radius: 30px;
+}
