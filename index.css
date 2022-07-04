@@ -88,3 +88,26 @@ a {
   padding-bottom: 20px;
   padding: 30px 30px;
 }
+footer {
+  text-align: center;
+  background-color: #28282b;
+  margin: 0px;
+  padding: 50px;
+}
+footer p {
+  color: white;
+}
+.eat-fresh {
+  display: flex;
+  justify-content: center;
+}
+#Eat {
+  color: orangered;
+  margin-right: 10px;
+  font-size: 40px;
+}
+#Fresh {
+  color: rgb(187, 181, 181);
+  font-size: 40px;
+  margin-right: 10px;
+}
