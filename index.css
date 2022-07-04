@@ -10,11 +10,20 @@ body {
 #banner-text {
   font-size: 20px;
   color: grey;
+  padding-bottom: 20px;
+}
+#about-me {
+  color: rgb(99, 98, 98);
+  margin-top: 15%;
+}
+#My-Recipies {
+  color: rgb(99, 98, 98);
 }
 h1 {
   font-size: 50px;
 }
-.section1 {
+.section1,
+.section2 {
   display: flex;
   padding-bottom: 20px;
 }
@@ -36,7 +45,12 @@ a {
     rgba(255, 145, 0, 1) 13%,
     rgba(235, 93, 22, 1) 74%
   );
-  margin-top: 10%;
   padding: 15px 45px;
   border-radius: 30px;
+}
+.section2 {
+  background-image: url(images/shapes/7.png);
+}
+.my-recipies {
+  text-align: center;
 }
