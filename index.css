@@ -76,6 +76,15 @@ a {
   box-shadow: -8px 5px 25px rgb(224, 224, 224);
   border-radius: 10px;
 }
+.food-one:hover {
+  box-shadow: 8px 5px 25px rgb(156, 155, 155);
+  border-radius: 10px;
+}
+
+.food-two:hover {
+  box-shadow: -8px 5px 25px rgb(156, 155, 155);
+  border-radius: 10px;
+}
 .section4 {
   display: flex;
   justify-content: center;
